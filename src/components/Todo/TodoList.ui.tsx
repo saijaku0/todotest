@@ -1,3 +1,9 @@
+/**
+ * UI Element
+ *
+ * @param {title, todos, toggleComplete, editTodo, deleteTodo}
+ * @returns {JSX.Element}
+ */
 import { Box, Heading, List } from '@chakra-ui/react'
 
 import { ITodoListProps } from '@/shared/interface'

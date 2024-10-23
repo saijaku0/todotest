@@ -1,3 +1,9 @@
+/**
+ * UI Element
+ *
+ * @param {todo, toggleComplete, editTodo, deleteTodo}
+ * @returns {JSX.Element}
+ */
 import { useTranslation } from 'react-i18next'
 
 import {

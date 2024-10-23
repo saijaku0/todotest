@@ -1,3 +1,9 @@
+/**
+ * UI Element
+ *
+ * @param addTodo - Simple todo value aka title
+ * @returns {JSX.Element}
+ */
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 
