@@ -1,1 +1,15 @@
-{}
+{
+	"app": {
+		"title": "My Todo App",
+		"description": "Keep track of your tasks easily."
+	},
+	"todo": {
+		"uncompleted": "Uncompleted Tasks",
+		"completed": "Completed Tasks",
+		"enterTask": "Enter a task",
+		"add": "Add Todo",
+		"delete": "Delete",
+		"completedButton": "Mark as Completed",
+		"uncompletedButton": "Mark as Uncompleted"
+	}
+}

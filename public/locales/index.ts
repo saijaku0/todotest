@@ -1,5 +1,8 @@
+// Add ukraine local
 import { en } from './en'
+import { uk } from './uk'
 
 export const resources = {
-	en: en
+	en: en,
+	uk: uk
 } as const
